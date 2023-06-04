@@ -14,7 +14,7 @@ Other things I do other than coding is mostly gaming and I love going around the
 [![Skills](https://github-widgetbox.vercel.app/api/skills?theme=carbon&software=linux,windows,vscode)]()
 
 ### Languages
-[![Skills](https://github-widgetbox.vercel.app/api/skills?frameworks=js,java,html,css&theme=carbon)]()
+[![Skills](https://github-widgetbox.vercel.app/api/skills?frameworks=js,java,python,csharp,lua&theme=carbon)]()
 
 ## Stats
 <div align="center">

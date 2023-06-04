@@ -24,5 +24,6 @@ Other things I do other than coding is mostly gaming and I love going around the
 
 ## Stats
 <div align="center">
-    [![Stats](https://github-widgetbox.vercel.app/api/profile?username=maxjackson2&data=followers,repositories,stars,commits)]()
+
+    [![Skills](https://github-widgetbox.vercel.app/api/profile?username=maxjackson2&data=followers,repositories,stars,commits%theme=carbon)]()
 </div>

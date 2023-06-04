@@ -11,16 +11,16 @@ Other things I do other than coding is mostly gaming and I love going around the
 ## 🛠️ Skills
 
 ### OS's / Editors / IDE's
-[![Skills](https://github-widgetbox.vercel.app/api/skills?theme=carbon&software=linux,windows,vscode)]()
+[![Skills](https://github-widgetbox.vercel.app/api/skills?theme=carbon&software=linux,windows,vscode&includeNames=true)]()
 
 ### Frameworks
-[![Skills](https://github-widgetbox.vercel.app/api/skills?frameworks=express,electron,dotnetcore&theme=carbon)]()
+[![Skills](https://github-widgetbox.vercel.app/api/skills?frameworks=express,electron,dotnetcore&theme=carbon&includeNames=true)]()
 
 ### Tools
-[![Skills](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yearn,nodejs,mongodb,gradle,apache,prettier&theme=carbon)]()
+[![Skills](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yearn,nodejs,mongodb,gradle,apache,prettier&theme=carbon&includeNames=true)]()
 
 ### Languages
-[![Skills](https://github-widgetbox.vercel.app/api/skills?frameworks=js,ts,java,python,csharp,lua,markdown,json&theme=carbon)]()
+[![Skills](https://github-widgetbox.vercel.app/api/skills?frameworks=js,ts,java,python,csharp,lua,markdown,json&theme=carbon&includeNames=true)]()
 
 ## Stats
 [![Skills](https://github-widgetbox.vercel.app/api/profile?username=maxjackson2&data=followers,repositories,stars,commits&theme=carbon)]()

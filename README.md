@@ -1,26 +1,27 @@
-# Hello! 👋
-Thanks for viewing my profile, here is some details about me down below:
+<h1 align="center">Hi 👋, I'm Max Jackson</h1>
+<h3 align="center">A passionate backend developer from US, California</h3>
 
-## About me
-I'm Max Jackson, a **Backend Developer** (Mostly coding in **Java** & **Javascript**), I mostly create side projects and work around with other people.  
-  
-I love creating and contributing to projects like: **Open Source Projects** and **Private Source Projects**, I don't do frontend a lot because I suck at making designs.  
-  
-Other things I do other than coding is mostly gaming and I love going around the world.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxjackson2&label=Profile%20views&color=0e75b6&style=flat" alt="maxjackson2" /> </p>
 
-## 🛠️ Skills
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxjackson2" alt="maxjackson2" /></a> </p>
 
-### OS's / Editors / IDE's
-[![Skills](https://github-widgetbox.vercel.app/api/skills?theme=carbon&software=linux,windows,vscode&includeNames=true)]()
+<p align="left"> <a href="https://twitter.com/maxj1999_0" target="blank"><img src="https://img.shields.io/twitter/follow/maxj1999_0?logo=twitter&style=for-the-badge" alt="maxj1999_0" /></a> </p>
 
-### Frameworks
-[![Skills](https://github-widgetbox.vercel.app/api/skills?frameworks=express,electron,dotnetcore&theme=carbon&includeNames=true)]()
+- 🔭 I’m currently working on [VersusCLI](https://github.com/VersusCLI/Versus)
 
-### Tools
-[![Skills](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yearn,nodejs,mongodb,gradle,apache,prettier&theme=carbon&includeNames=true)]()
+- 🌱 I’m currently learning **Nuxt, Next, React, Electron.**
 
-### Languages
-[![Skills](https://github-widgetbox.vercel.app/api/skills?frameworks=js,ts,java,python,csharp,lua,markdown,json&theme=carbon&includeNames=true)]()
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/maxj1999_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maxj1999_0" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22206255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22206255" height="30" width="40" /></a>
+</p>
 
-## Stats
-[![Skills](https://github-widgetbox.vercel.app/api/profile?username=maxjackson2&data=followers,repositories,stars,commits&theme=carbon)]()
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxjackson2&show_icons=true&locale=en&layout=compact" alt="maxjackson2" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxjackson2&show_icons=true&locale=en" alt="maxjackson2" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxjackson2&" alt="maxjackson2" /></p>
